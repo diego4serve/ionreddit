@@ -125,8 +125,8 @@ import { SettingsPage } from '../settings/settings';
 export class TabsPage {
 
   tab1Root = RedditsPage;
-  tab3Root = SettingsPage;
-  tab2Root = AboutPage;
+  tab2Root = SettingsPage;
+  tab3Root = AboutPage;
 ```
 
 Modificar pages/tabs/tabs.html
